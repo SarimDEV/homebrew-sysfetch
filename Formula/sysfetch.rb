@@ -1,7 +1,4 @@
-# Documentation: https://docs.brew.sh/Formula-Cookbook
-#                https://rubydoc.brew.sh/Formula
-# PLEASE REMOVE ALL GENERATED COMMENTS BEFORE SUBMITTING YOUR PULL REQUEST!
-class Espanso < Formula
+class Sysfetch < Formula
   desc "Explore your system and terminal environment with elegance."
   homepage "https://github.com/SarimDEV/sysfetch"
   url "https://github.com/SarimDEV/sysfetch/releases/latest/download/sysfetch-mac.tar.gz"
